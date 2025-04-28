@@ -39,7 +39,7 @@ El uso de arquitecturas avanzadas como LSTM se justifica plenamente en tareas de
 
 ## Autor
 
-- [Tu Nombre Aquí] (opcionalmente puedes poner tu LinkedIn o GitHub)
+- Juan Camilo Serna R.
 
 ## ¿Cómo ver este proyecto?
 
